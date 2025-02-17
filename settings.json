@@ -47,7 +47,6 @@
         "editor.defaultFormatter": "mervin.markdown-formatter"
     },
     "editor.stickyScroll.enabled": false,
-    "cmake.showOptionsMovedNotification": false,
     "workbench.preferredLightColorTheme": "GitHub Dark",
     "security.allowedUNCHosts": [
         "wsl.localhost"
