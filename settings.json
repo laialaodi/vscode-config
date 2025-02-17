@@ -1,0 +1,68 @@
+{
+    "editor.unicodeHighlight.allowedLocales": {
+        "zh-hant": true
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "background.enabled": true,
+    "background.editor": {
+        "useFront": true,
+        "style": {
+            "pointer-events": "none",
+            "position": "absolute",
+            "right": "0",
+            "bottom": "0",
+            "width": "50%",
+            "height": "50%",
+            "z-index": "9999",
+            "background-size": "contain",
+            "opacity": 0.47,
+        },
+        "images": [
+            "file:///C:/Users/frank/Pictures/vscode%20background/47023104-85336080-d191-11e8-957f-b4ac3f8a24c1.png"
+        ],
+        "interval": 0,
+        "random": false
+    },
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 13,
+    "window.commandCenter": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "cSpell.userWords": [
+        "arctan",
+        "blit",
+        "etype",
+        "excepthook",
+        "hidpi",
+        "laialaodi",
+        "lxml",
+        "manim",
+        "qfluentwidgets",
+        "startfile",
+        "sympy",
+        "tableview",
+        "Uncreate",
+        "Unwrite",
+        "zhanghan"
+    ],
+    "window.autoDetectColorScheme": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnSave": true,
+    "[markdown]": {
+        "editor.defaultFormatter": "mervin.markdown-formatter"
+    },
+    "editor.stickyScroll.enabled": false,
+    "cmake.showOptionsMovedNotification": false,
+    "workbench.preferredLightColorTheme": "GitHub Dark",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "update.mode": "none",
+    "python.analysis.autoImportCompletions": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.enableMultiLinePasteWarning": "never", //在终端邮件粘贴时不警告
+}
